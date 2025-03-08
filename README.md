@@ -11,4 +11,4 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-Check out the project using this link https://huggingface.co/spaces/Abiram348/Sentiment_analysis
+Check out the project using this link https://huggingface.co/spaces/harsha167/Sentiment_analysis
